@@ -20,7 +20,10 @@ C#
 
 .NET
 
-Data structures (Dictionary, HashSet)
+Data structures
+Dictionary
+
+HashSet
 
 📂 How to Run:
 1️⃣ Clone the repository
